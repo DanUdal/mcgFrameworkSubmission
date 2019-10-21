@@ -1,0 +1,28 @@
+﻿  Main.cpp
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(306): warning C4018: '<': signed/unsigned mismatch
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(484): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(494): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(507): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(517): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+\\bournemouth.ac.uk\data\student\home\scitech\s5111564\mcgframework\mcg_gfx_framework\shapes.h(613): warning C4018: '<': signed/unsigned mismatch
+  MCG_GFX_Framework.vcxproj -> \\bournemouth.ac.uk\data\student\home\SciTech\s5111564\mcgFramework\Debug\MCG_GFX_Framework.exe
